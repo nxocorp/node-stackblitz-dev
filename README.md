@@ -56,6 +56,7 @@ We will also be breaking down the course into modules to help better understand 
   - Nodes are the most basic data structure.
     - You can create new nodes, edit existing nodes, delete nodes, style nodes, and transform nodes
     - Nodes are customizable using **_enhancers_**
+    - We use a **_markdown engine_** to enhance the node structure.
   - NODES can be organized inside DOCS. Docs are collections of Nodes
   - Docs can be placed in folders.
   - Folders store different properties about the docs inside.
