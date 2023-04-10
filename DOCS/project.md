@@ -24,6 +24,16 @@ And we will be using Backend services like:
 - **Github** - Code repository and distribution
 - **Firebase** - Database Storage, File Storage and Authentication
 
+And finally we will be integrating AI based technologies to enhance our app.
+
+- **GPT-4**
+- **Midjourny**
+
+#### Hacker Man - Bonus:
+
+- We will be turning a mobile phone into a private server
+- Serve our application on the Web and/or in a private local network.
+
 ## Project Outline
 
 We will also be breaking down the course into modules to help better understand each component, integrating project .
