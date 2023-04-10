@@ -2,26 +2,36 @@
 
 Welcome to **NXOCORP W.IDE Development Laboratory**
 
-We will be exploring the posabillities of using the StackBlitz WebIDE to code everything from SPA websites to Mobile Apps and Cloud services focusing on modern JavaScript frameworks and external services available.
+We will be exploring the posabillities of using the StackBlitz WebIDE to code everything from SPA to Mobile Apps and Cloud services focusing on modern JavaScript frameworks and external services available.
 
 ## Introduction
 
-Here are the main tools we will be using to create our App Ecosystem.  
-In our lab we
+To take control of this endevor, we will be using:
 
-- **Stackblitz Web IDE**
-- **Github.com**
-- **Firebase**
+- **Notion.so** - Documentation and Project Management Application
+- **Plasmic/Figma** - system Design and Prototyping
 
-what we will be learing and how this lab is structure.
+Our online development ecosystem and tools are:
 
-We will be breaking down this course into modules to help you work each system at your pace.
+- **Stackblitz Web IDE** - Code development, testing and deployment
 
-So without further introduction lets get started.
+We will be exploring the latest Javascript frameworks like:
 
-### Project Outline
+- **Vue/React/Angular**
 
-`[] set up our wIDE and determine framework to use`  
-` [] design our applications using online tools`  
-`[] integrate external tools as backend services`  
-`[] implement our own backend services`
+And we will be using Backend services like:
+
+- **Github** - Code repository and distribution
+- **Firebase** - Database Storage, File Storage and Authentication
+
+## Project Outline
+
+We will also be breaking down the course into modules to help better understand each component, integrating project .
+
+`[] set up our wIDE `  
+`[] determine framework to use`  
+`[] design our applications using online tools`  
+`[] implement a project plan and organize our sprints`  
+`[] start prototyping functionality and style`  
+`[] integrate external tools for backend services`  
+`[] deploy to public access to testing`
