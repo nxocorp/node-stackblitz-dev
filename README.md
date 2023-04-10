@@ -4,7 +4,7 @@ Welcome to **NXOCORP W.IDE Development Laboratory**
 
 > [Edit me on StackBlitz ⚡️](https://stackblitz.com/edit/node-stack-dev)
 
-We will be exploring the posabillities of using the StackBlitz WebIDE to code everything from SPA to Mobile Apps and Cloud services focusing on modern JavaScript frameworks and external services available.
+We will be exploring the possibilities of using the StackBlitz WebIDE to code everything from SPA to Mobile Apps and Cloud services focusing on modern JavaScript frameworks and external services available.
 
 ## Introduction
 
@@ -31,7 +31,7 @@ And finally we will be integrating AI based technologies to enhance our app.
 - **GPT-4**
 - **Midjourny**
 
-#### Hacker Man - Bonus:
+Bonus: Hacker Man Implementation
 
 - We will be turning a mobile phone into a private server
 - Serve our application on the Web and/or in a private local network.
@@ -40,10 +40,10 @@ And finally we will be integrating AI based technologies to enhance our app.
 
 We will also be breaking down the course into modules to help better understand each component, integrating project .
 
-`[] set up our wIDE `  
-`[] determine framework to use`  
-`[] design our applications using online tools`  
-`[] implement a project plan and organize our sprints`  
-`[] start prototyping functionality and style`  
-`[] integrate external tools for backend services`  
-`[] deploy to public access to testing`
+- [ ] set up our wIDE
+- [ ] determine framework to use
+- [ ] design our applications using online tools
+- [ ] implement a project plan and organize our sprints
+- [ ] start prototyping functionality and style
+- [ ] integrate external tools for backend services
+- [ ] deploy to public access to testing
