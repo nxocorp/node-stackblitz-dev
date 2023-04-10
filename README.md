@@ -2,7 +2,7 @@
 
 Welcome to **NXOCORP W.IDE Development Laboratory**
 
-[Edit me on StackBlitz ⚡️](https://stackblitz.com/edit/node-stack-dev)
+> [Edit me on StackBlitz ⚡️](https://stackblitz.com/edit/node-stack-dev)
 
 We will be exploring the posabillities of using the StackBlitz WebIDE to code everything from SPA to Mobile Apps and Cloud services focusing on modern JavaScript frameworks and external services available.
 
