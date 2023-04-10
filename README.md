@@ -1,6 +1,6 @@
 # NXOCORP DOJO
 
-Welcome to **NXOCORP W.IDE Development Laboratory**
+Welcome to **NXOCORP W.IDE LAB**
 
 > [Edit me on StackBlitz ⚡️](https://stackblitz.com/edit/node-stack-dev)
 
@@ -10,12 +10,12 @@ We will be exploring the possibilities of using the StackBlitz WebIDE to code ev
 
 To take control of this endevor, we will be using:
 
-- **Notion.so** - Documentation and Project Management Application
+- **Notion** - Documentation and Project Management Application
 - **Plasmic/Figma** - system Design and Prototyping
 
 Our online development ecosystem and tools are:
 
-- **Stackblitz Web IDE** - Code development, testing and deployment
+- **Stackblitz** - Web IDE for Code development, testing and deployment
 
 We will be exploring the latest Javascript frameworks like:
 
