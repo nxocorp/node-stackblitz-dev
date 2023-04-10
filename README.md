@@ -19,7 +19,9 @@ Our online development ecosystem and tools are:
 
 We will be exploring the latest Javascript frameworks like:
 
-- **Vue/React/Angular**
+- **Vue**
+- **React**
+- **Angular**
 
 And we will be using Backend services like:
 

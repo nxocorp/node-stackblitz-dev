@@ -11,9 +11,7 @@
       - Logout
   - Navigation
     - Comunications Module
-    - Inbox
-    - Tasks
-    - Notes
+    - Canvas/Nodes Module
   - Content
     - Toolbar (positional)
     - Module Content
