@@ -12,6 +12,7 @@
   - Navigation
     - Comunications Module
     - Canvas/Nodes Module
+    - Document Archive
   - Content
     - Toolbar (positional)
     - Module Content
