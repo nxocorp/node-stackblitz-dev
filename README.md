@@ -27,6 +27,7 @@ And we will be using Backend services like:
 
 - **Github** - Code repository and distribution
 - **Firebase** - Database Storage, File Storage and Authentication
+- **PocketBase** - File Database that can run locally on machine
 
 And finally we will be integrating AI based technologies to enhance our app.
 
@@ -37,5 +38,3 @@ Bonus: Hacker Man Implementation
 
 - We will be turning a mobile phone into a private server
 - Serve our application on the Web and/or in a private local network.
-
-
