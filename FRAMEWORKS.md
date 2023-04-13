@@ -1,4 +1,4 @@
-# Training and Tutorials
+# Frameworks Used
 
 VUE + User Authentication
 
@@ -17,3 +17,8 @@ VUE Frontend + Pocketbase Backend
 VUE Frontend + Local Storage
 
 VUE Frontend + Pocketbase Backend + Local Storage
+
+---
+
+Angular + Firebase
+Angular + Pockebase
