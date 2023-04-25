@@ -17,11 +17,18 @@ Our online development ecosystem and tools are:
 
 - **Stackblitz** - Web IDE for Code development, testing and deployment
 
-We will be exploring the latest Javascript frameworks like:
+We will be exploring the latest Javascript frontend frameworks like:
 
 - **Vue**
 - **React**
 - **Angular**
+- **Solid**
+- **svelte**
+
+We are exploring fullstack
+
+- **Next.js**
+- **Qwik**
 
 And we will be using Backend services like:
 

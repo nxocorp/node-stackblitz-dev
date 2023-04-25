@@ -1,4 +1,4 @@
-## Project Outline
+## Project Idea 1 - Outline
 
 We will also be breaking down the course into modules to help better understand each component, integrating project .
 
