@@ -1,7 +1,6 @@
 # SPA "Single Page Application" outline
 
 - Main Container
-
   - Header
     - Main Icon/Link
     - Right Side Icon/Link (Authentication)
@@ -13,14 +12,16 @@
   - Navigation
     - Comunications Module
       - People / AI.Bots
-    - Canvas/Nodes Module
+    - Canvas/Nodes Manager
       - Search
-      - NODE ARCHIVER
-      - Organizers
+      - Tool Pallet
+      - Settings
+      - plugins
     - Media Manager
-  - Content
-    - Toolbar (positional)
-    - Module Content
+  - Drawers
+    - Toolbar/Drawers (positional)
+  - Main Content
+    - Module Windows
   - Footer
     - desktop version
     - mobile version

@@ -23,7 +23,7 @@ We will be exploring the latest Javascript frontend frameworks like:
 - **React**
 - **Angular**
 - **Solid**
-- **svelte**
+- **Svelte**
 
 We are exploring fullstack
 

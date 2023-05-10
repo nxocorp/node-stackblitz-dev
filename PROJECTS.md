@@ -3,15 +3,28 @@
 ### Framework Modules
 
 - User Management
-  - Registration / verification / login / logout / delete / reset / update
+  - registration / verification / login / logout / delete / recovery / update
 - Admin Console
   - list / create / update / delete / export / import
-- Primary Function
+- Role Manager
+  - create / assign / test
+- Media Function
+  - upload / list / detail / download / stream / link / edit
+- Media Manager
+  - Types: Create / List / Edit / Delete
+  - Structs: Assign / Remove / List
+  - Objects: list / create / detail / edit / delete / organize
 
 ---
 
-##### Project #1: Financial Tracker and reporting.
+##### Project #0: Functional Portfolio
 
-##### Project #2: (Notion Clone)
+##### Project #1: Financial Tracker
+
+##### Project #2: Multiuser Document Manager + Chat
+
+##### Project #3: AI Companion interface
+
+##### Project #4: 2d/3d Web Game and Console
 
 ---
