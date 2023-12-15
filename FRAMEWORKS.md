@@ -1,24 +1,29 @@
-# Frameworks Used
+# Frameworks Implementation
 
-VUE + User Authentication
+Deploy a local PocketBase instance for Authentication, Realtime Data and Media Storage
 
-- Register User, verify, Role Modification
-- login/logout
+Deploy a landing page using SvelteKit
 
-VUE + Firebase Docuemnt Repository
+Deploy a User Authentication and management module
 
-- Firebase User authetication
-- Firebase Private and Public collections subscription
-- Firebase Document collection: list, create, edit, delete, query
-- Firebase File Storage: preview, linkto, download, delete
+    - Register User
+    - Validate User
+    - Login User / Logout User
+    - Access Manager
+    - Reset User
+    - Delete User
 
-VUE Frontend + Pocketbase Backend
+Deploy a Media Manager
 
-VUE Frontend + Local Storage
+    - Upload Media
+    - Embed Media
+    - Share Media
+    - Stream Media
+    - Download Media
+    - Preview Media
+    - Delete Media
 
-VUE Frontend + Pocketbase Backend + Local Storage
-
----
-
-Angular + Firebase
-Angular + Pockebase
+Deploy a Dynamic Document Manager (notion wysiwyg)
+Deploy a channel subscription manager for notifications
+Deploy a AI assistant
+Deploy a streaming service provider for AI generated media
