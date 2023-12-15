@@ -27,6 +27,7 @@ We will be exploring the latest Javascript frontend frameworks like:
 
 We are exploring fullstack
 
+- **SvelteKit**
 - **Next.js**
 - **Qwik**
 
